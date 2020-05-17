@@ -1,3 +1,6 @@
 [submodule "EfCore.GenericServices"]
 	path = EfCore.GenericServices
 	url = git@github.com:JonPSmith/EfCore.GenericServices.git
+[submodule "ddd-guestbook"]
+	path = ddd-guestbook
+	url = git@github.com:ardalis/ddd-guestbook.git
