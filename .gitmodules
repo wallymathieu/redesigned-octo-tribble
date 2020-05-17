@@ -4,3 +4,12 @@
 [submodule "ddd-guestbook"]
 	path = ddd-guestbook
 	url = git@github.com:ardalis/ddd-guestbook.git
+[submodule "clean-architecture-manga"]
+	path = clean-architecture-manga
+	url = git@github.com:ivanpaulovich/clean-architecture-manga.git
+[submodule "aspnet-core-clean-arch"]
+	path = aspnet-core-clean-arch
+	url = git@github.com:CanerPatir/aspnet-core-clean-arch.git
+[submodule "Dermayon"]
+	path = Dermayon
+	url = git@github.com:NHadi/Dermayon.git
