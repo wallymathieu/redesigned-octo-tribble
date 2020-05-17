@@ -13,3 +13,6 @@
 [submodule "Dermayon"]
 	path = Dermayon
 	url = git@github.com:NHadi/Dermayon.git
+[submodule "Wilson"]
+	path = Wilson
+	url = git@github.com:KostaVlev/Wilson.git
