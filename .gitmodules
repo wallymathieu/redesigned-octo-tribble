@@ -1,0 +1,3 @@
+[submodule "EfCore.GenericServices"]
+	path = EfCore.GenericServices
+	url = git@github.com:JonPSmith/EfCore.GenericServices.git
