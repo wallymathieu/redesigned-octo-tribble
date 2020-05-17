@@ -16,3 +16,9 @@
 [submodule "Wilson"]
 	path = Wilson
 	url = git@github.com:KostaVlev/Wilson.git
+[submodule "DDDExampleCode"]
+	path = DDDExampleCode
+	url = git@github.com:JonPSmith/DDDExampleCode.git
+[submodule "ddd-net-ef-core"]
+	path = ddd-net-ef-core
+	url = git@github.com:kimcu-on-thenet/ddd-net-ef-core.git
